@@ -1,0 +1,37 @@
+Provided by Customer:
+
+* Business Requirement *
+
+  KPI's Requirements:
+	1. Total Sales
+	2. Average Sales
+	3. Number of Items
+	4. Average Rating
+  
+  Chart Requirements:
+	1. Total Sales by Fat Content : Donut Chart
+		Additional KPI Metrics: Assess how other KPIs(average sales - items 			number - average rating) vary with fat content.
+
+	2. Fat Content by Outlet for Total Sales : Stacked Column Chart
+		Additional KPI Metrics: Assess how other KPIs (average sales - items 			number - average rating) vary with fat content.
+
+	3. Total Sales by Item Type : Bar Chart
+		Additional KPI Metrics: Assess how other KPIs (average sales - items 			number - average rating) vary.
+
+	4. Total Sales by Outlet Establishments : Line Chart
+	5. Sales by Outlet Size : Donut/ Pie Chart
+	6. Sales by Outlet Location : Funnel Map
+	7. All Metrics by Outlet Type : Matrix Card
+
+
+* Data Walkthrough - Data Connection *
+
+* Data Cleaning (Quality) - Data Modeling - Data Processing *
+
+* DAX Calculations * 
+
+* Dashboard Layout - Chart Development & Formatting *
+
+* Dashboard / Report Development *
+
+* Insight Generation *
