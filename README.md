@@ -8,18 +8,24 @@ With a strong passion for problem-solving and data-driven decision-making, I hav
 ## Table of Contents
 - [About](https://github.com/Karim-Data000/PortfolioProjects/blob/main/README.md#about)
 - [Projects](https://github.com/Karim-Data000/PortfolioProjects/blob/main/README.md#projects)
-	- [HR Analytics Dashboard in Tableau](https://github.com/Karim-Data000/PortfolioProjects#hr-analytics-dashboard-in-tableau)
-	- [Comprehensive Healthcare Analysis in Power BI](https://github.com/Karim-Data000/PortfolioProjects#comprehensive-healthcare-analysis-in-power-bi)
-	- [Real Estate Data Scraping & Analysis (Otodom)](https://github.com/Karim-Data000/PortfolioProjects#real-estate-data-scraping--analysis-otodom)
-	- [London Bike Rides Data Analytics](https://github.com/Karim-Data000/PortfolioProjects#london-bike-rides-data-analytics)
-	- [Movie Industry Analysis](https://github.com/Karim-Data000/PortfolioProjects#movie-industry-analysis)
-	- [Data Cleaning in SQL](https://github.com/Karim-Data000/PortfolioProjects#data-cleaning-in-sql)
-	- [Blinkit Grocery Dashboard in Power BI](https://github.com/Karim-Data000/PortfolioProjects#blinkit-grocery-dashboard-in-power-bi)
-	- [Covid-19 Dashboard – Global Trends & Insights](https://github.com/Karim-Data000/PortfolioProjects#covid-19-dashboard--global-trends--insights)
-	- [Excel Sales Dashboard for Bicycle Sales](https://github.com/Karim-Data000/PortfolioProjects#excel-sales-dashboard-for-bicycle-sales)
-	- [Coffee Sales Dashboard](https://github.com/Karim-Data000/PortfolioProjects#coffee-sales-dashboard)
-	- [Looker Sales Report](https://github.com/Karim-Data000/PortfolioProjects#looker-sales-report)
-	- [Lead CRM - Google Sheets](https://github.com/Karim-Data000/PortfolioProjects#lead-crm---google-sheets)
+	
+	- Python / SQL / Others
+		- [Real Estate Data Scraping & Analysis (Otodom)](https://github.com/Karim-Data000/PortfolioProjects#real-estate-data-scraping--analysis-otodom)
+		- [London Bike Rides Data Analytics](https://github.com/Karim-Data000/PortfolioProjects#london-bike-rides-data-analytics)
+		- [Movie Industry Analysis](https://github.com/Karim-Data000/PortfolioProjects#movie-industry-analysis)
+		- [Data Cleaning in SQL](https://github.com/Karim-Data000/PortfolioProjects#data-cleaning-in-sql)
+		- [Covid-19 Dashboard – Global Trends & Insights](https://github.com/Karim-Data000/PortfolioProjects#covid-19-dashboard--global-trends--insights)
+	
+	- Tableau / Power Bi
+		- [HR Analytics Dashboard in Tableau](https://github.com/Karim-Data000/PortfolioProjects#hr-analytics-dashboard-in-tableau)
+		- [Comprehensive Healthcare Analysis in Power BI](https://github.com/Karim-Data000/PortfolioProjects#comprehensive-healthcare-analysis-in-power-bi)
+		- [Blinkit Grocery Dashboard in Power BI](https://github.com/Karim-Data000/PortfolioProjects#blinkit-grocery-dashboard-in-power-bi)
+	
+	- Excel / Google Sheets / Looker
+		- [Excel Sales Dashboard for Bicycle Sales](https://github.com/Karim-Data000/PortfolioProjects#excel-sales-dashboard-for-bicycle-sales)
+		- [Coffee Sales Dashboard](https://github.com/Karim-Data000/PortfolioProjects#coffee-sales-dashboard)
+		- [Looker Sales Report](https://github.com/Karim-Data000/PortfolioProjects#looker-sales-report)
+		- [Lead CRM - Google Sheets](https://github.com/Karim-Data000/PortfolioProjects#lead-crm---google-sheets)
 
 
 ## Projects
