@@ -6,8 +6,8 @@ Motivated and self-taught data analyst with a Bachelor's degree in Electrical En
 With a strong passion for problem-solving and data-driven decision-making, I have worked on several projects that showcase my ability to gather, clean, analyze, and visualize data. From building dynamic dashboards to automating data pipelines, my portfolio reflects my dedication to continuous learning and my drive to add value to any organization.
 
 ## Table of Contents
-- [About](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#about)
-- [Projects](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#projects)
+- [About](https://github.com/Karim-Data000/PortfolioProjects/blob/main/README.md#about)
+- [Projects](https://github.com/Karim-Data000/PortfolioProjects/blob/main/README.md#projects)
 	- [HR Analytics Dashboard in Tableau](https://github.com/Karim-Data000/PortfolioProjects#hr-analytics-dashboard-in-tableau)
 	- [Comprehensive Healthcare Analysis in Power BI](https://github.com/Karim-Data000/PortfolioProjects#comprehensive-healthcare-analysis-in-power-bi)
 	- [Real Estate Data Scraping & Analysis (Otodom)](https://github.com/Karim-Data000/PortfolioProjects#real-estate-data-scraping--analysis-otodom)
