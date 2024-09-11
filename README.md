@@ -30,20 +30,6 @@ With a strong passion for problem-solving and data-driven decision-making, I hav
 
 ## Projects
 
-### HR Analytics Dashboard in Tableau
-- **Goal:** Develop a comprehensive HR dashboard for employee management and compensation analysis.
-- **Code:** [HR Dashboard](https://public.tableau.com/app/profile/karim.adel8740/viz/HRDashboard_17242569568640/HRSummary)
-- **Description:** This Tableau dashboard features high-level insights into employee demographics, retention, and salary trends. It provides HR managers with interactive tools to assess key metrics such as active/terminated employee ratios, gender income gaps, and the influence of education on compensation. A detailed employee records view allows for personalized analysis.
-- **Skills:** Data visualization, dashboard design, HR metrics analysis.
-- **Technology:** Tableau
-
-### Comprehensive Healthcare Analysis in Power BI
-- **Goal:** Provide healthcare administrators with real-time insights into patient waitlists.
-- **Code:** [Healthcare Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQxNDFjMjAtZGVjZi00NzRkLTgyNzgtZjdmMTJkMzZlZTdkIiwidCI6ImEzNDI4ZTk3LTY2NjItNDA1Ny1iYjk5LWQwZWIwNzJmYzg3MCIsImMiOjh9)
-- **Description:** Built using Power BI, this dashboard offers administrators visibility into patient waitlists, categorized by case type, age, and time. A detailed timeline view provides a clear picture of patient data, enabling better decision-making.
-- **Skills:** Data analysis, healthcare metrics, Power BI visualization.
-- **Technology:** Power BI
-
 ### Real Estate Data Scraping & Analysis (Otodom)
 - **Goal:** Scrape and analyze real estate listings from a popular Polish platform.
 - **Code:** [Otodom Scraping Repo](https://github.com/Karim-Data000/PortfolioProjects/tree/main/WebScraping%20%26%20SQL%20Exploration%20-%20Python%20%26%20SQL)
@@ -72,19 +58,33 @@ With a strong passion for problem-solving and data-driven decision-making, I hav
 - **Skills:** Data cleaning, SQL, ETL.
 - **Technology:** SQL
 
-### Blinkit Grocery Dashboard in Power BI
-- **Goal:** Provide insights into grocery sales data from Blinkit.
-- **Code:** [Blinkit Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTMxZTFlMTQtZmRkZi00MDBmLWE1M2QtMjJkMjRjM2RmYmQ4IiwidCI6ImEzNDI4ZTk3LTY2NjItNDA1Ny1iYjk5LWQwZWIwNzJmYzg3MCIsImMiOjh9)
-- **Description:** Built an interactive Power BI dashboard analyzing grocery sales from 2011-2022. The dashboard includes KPIs such as total revenue, number of items sold, and average ratings, with breakdowns by location, item type, and outlet size.
-- **Skills:** Data visualization, business intelligence, sales analysis.
-- **Technology:** Power BI
-
 ### Covid-19 Dashboard – Global Trends & Insights
 - **Goal:** Analyze the global impact of Covid-19.
 - **Code:** [Covid-19 Dashboard Repo](https://public.tableau.com/app/profile/karim.adel8740/viz/covidproject_17237363224920/Dashboard1)
 - **Description:** Explored global Covid-19 data from 2020-2024 using Python and SQL, visualizing cases and death tolls across countries and continents in an interactive Tableau dashboard.
 - **Skills:** Data analysis, data visualization, epidemiology analysis.
 - **Technology:** Python, SQL, Tableau
+
+### HR Analytics Dashboard in Tableau
+- **Goal:** Develop a comprehensive HR dashboard for employee management and compensation analysis.
+- **Code:** [HR Dashboard](https://public.tableau.com/app/profile/karim.adel8740/viz/HRDashboard_17242569568640/HRSummary)
+- **Description:** This Tableau dashboard features high-level insights into employee demographics, retention, and salary trends. It provides HR managers with interactive tools to assess key metrics such as active/terminated employee ratios, gender income gaps, and the influence of education on compensation. A detailed employee records view allows for personalized analysis.
+- **Skills:** Data visualization, dashboard design, HR metrics analysis.
+- **Technology:** Tableau
+
+### Comprehensive Healthcare Analysis in Power BI
+- **Goal:** Provide healthcare administrators with real-time insights into patient waitlists.
+- **Code:** [Healthcare Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQxNDFjMjAtZGVjZi00NzRkLTgyNzgtZjdmMTJkMzZlZTdkIiwidCI6ImEzNDI4ZTk3LTY2NjItNDA1Ny1iYjk5LWQwZWIwNzJmYzg3MCIsImMiOjh9)
+- **Description:** Built using Power BI, this dashboard offers administrators visibility into patient waitlists, categorized by case type, age, and time. A detailed timeline view provides a clear picture of patient data, enabling better decision-making.
+- **Skills:** Data analysis, healthcare metrics, Power BI visualization.
+- **Technology:** Power BI
+
+### Blinkit Grocery Dashboard in Power BI
+- **Goal:** Provide insights into grocery sales data from Blinkit.
+- **Code:** [Blinkit Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTMxZTFlMTQtZmRkZi00MDBmLWE1M2QtMjJkMjRjM2RmYmQ4IiwidCI6ImEzNDI4ZTk3LTY2NjItNDA1Ny1iYjk5LWQwZWIwNzJmYzg3MCIsImMiOjh9)
+- **Description:** Built an interactive Power BI dashboard analyzing grocery sales from 2011-2022. The dashboard includes KPIs such as total revenue, number of items sold, and average ratings, with breakdowns by location, item type, and outlet size.
+- **Skills:** Data visualization, business intelligence, sales analysis.
+- **Technology:** Power BI
 
 ### Excel Sales Dashboard for Bicycle Sales
 - **Goal:** Visualize key metrics for bicycle sales over time.
