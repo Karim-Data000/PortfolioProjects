@@ -6,18 +6,19 @@ Motivated and self-taught data analyst with a Bachelor's degree in Electrical En
 With a strong passion for problem-solving and data-driven decision-making, I have worked on several projects that showcase my ability to gather, clean, analyze, and visualize data. From building dynamic dashboards to automating data pipelines, my portfolio reflects my dedication to continuous learning and my drive to add value to any organization.
 
 ## Table of Contents
-1. [HR Analytics Dashboard in Tableau](#hr-analytics-dashboard-in-tableau)
-2. [Comprehensive Healthcare Analysis in Power BI](#comprehensive-healthcare-analysis-in-power-bi)
-3. [Real Estate Data Scraping & Analysis (Otodom)](#real-estate-data-scraping--analysis-otodom)
-4. [London Bike Rides Data Analytics](#london-bike-rides-data-analytics)
-5. [Movie Industry Analysis](#movie-industry-analysis)
-6. [Data Cleaning in SQL](#data-cleaning-in-sql)
-7. [Blinkit Grocery Dashboard in Power BI](#blinkit-grocery-dashboard-in-power-bi)
-8. [Covid-19 Dashboard – Global Trends & Insights](#covid-19-dashboard--global-trends--insights)
-9. [Excel Sales Dashboard for Bicycle Sales](#excel-sales-dashboard-for-bicycle-sales)
-10. [Coffee Sales Dashboard](#coffee-sales-dashboard)
-11. [Looker Sales Report](#looker-sales-report)
-12. [Lead CRM - Google Sheets](#lead-crm---google-sheets)
+- [HR Analytics Dashboard in Tableau](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#hr-analytics-dashboard-in-tableau)
+- [Comprehensive Healthcare Analysis in Power BI](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#comprehensive-healthcare-analysis-in-power-bi)
+- [Real Estate Data Scraping & Analysis (Otodom)](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#real-estate-data-scraping--analysis-otodom)
+- [London Bike Rides Data Analytics](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#london-bike-rides-data-analytics)
+- [Movie Industry Analysis](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#movie-industry-analysis)
+- [Data Cleaning in SQL](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#data-cleaning-in-sql)
+- [Blinkit Grocery Dashboard in Power BI](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#blinkit-grocery-dashboard-in-power-bi)
+- [Covid-19 Dashboard – Global Trends & Insights](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#covid-19-dashboard--global-trends--insights)
+- [Excel Sales Dashboard for Bicycle Sales](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#excel-sales-dashboard-for-bicycle-sales)
+- [Coffee Sales Dashboard](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#coffee-sales-dashboard)
+- [Looker Sales Report](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#looker-sales-report)
+- [Lead CRM - Google Sheets](https://github.com/Karim-Data000/PortfolioProjects/edit/main/README.md#lead-crm---google-sheets)
+
 
 ## Projects
 
