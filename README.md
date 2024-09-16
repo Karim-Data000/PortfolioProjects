@@ -1,7 +1,7 @@
 # Portfolio of Karim Adel
 
 ## About
-Motivated and self-taught data analyst with a Bachelor's degree in Electrical Engineering and a robust set of skills in Python, MySQL, Tableau, Power BI, Git & GitHub, Excel, VBA, AWS, Salesforce Admin, web scraping, and Snowflake. Over the past year, I have dedicated myself to mastering these tools and technologies to transition into data analysis and business analysis roles.
+Motivated and self-taught data analyst with a Bachelor's degree in Electrical Engineering and a robust set of skills in Python, MySQL, Tableau, Power BI, Git & GitHub, Excel, VBA, AWS, Salesforce Admin, web scraping, Snowflake & Pyspark. Over the past year, I have dedicated myself to mastering these tools and technologies to transition into data analysis and business analysis roles.
 
 With a strong passion for problem-solving and data-driven decision-making, I have worked on several projects that showcase my ability to gather, clean, analyze, and visualize data. From building dynamic dashboards to automating data pipelines, my portfolio reflects my dedication to continuous learning and my drive to add value to any organization.
 
